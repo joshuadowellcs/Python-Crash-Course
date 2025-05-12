@@ -6,6 +6,7 @@ user_0 = {
     'last': 'fermi',
 }
 
+
 for k, v in user_0.items():
     print(f"\nKey: {k}")
     print(f"Value: {v}")
